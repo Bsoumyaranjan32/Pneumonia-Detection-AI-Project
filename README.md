@@ -72,5 +72,5 @@ Kaggle: Chest X-Ray Images (Pneumonia)
 
 🙌 Team
 👨‍💻 Sagar (Lead Developer)
-👨‍💻 ankur
-👨‍💻 sumya
+👨‍💻 Ankur
+👨‍💻 Soumyaranjan
